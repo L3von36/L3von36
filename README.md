@@ -1,86 +1,73 @@
 <div align="center">
 
-![Profile Banner](./github-profile-banner.png)
+<img src="./github-profile-banner.png" alt="Header" width="100%">
 
-# Hey, I'm L3von 👋
+<img src="./profile-image.png" alt="L3von36" width="120" height="120" style="border-radius: 50%; border: 3px solid #58a6ff; margin-top: -20px;">
 
-**Full-Stack Developer** from Ethiopia 🇪🇹
+# L3von
 
-Building software that solves real problems for real businesses.
+**Full-Stack Developer** · Ethiopia 🇪🇹
 
-</div>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 Currently building **[InvenSync](https://github.com/L3von36/InvenSync)** — Smart inventory management for retailers
-- 🌱 Always exploring **AI/ML integrations**, **system design**, and **DevOps**
-- 💡 Passionate about **developer tooling**, **open-source**, and **SaaS products**
-- 🏗️ I love taking ideas from **zero to production** — full-stack, end-to-end
-- 🎯 Focused on writing **clean, scalable, type-safe code**
-- ☕ Fuelled by coffee and curiosity
-
----
-
-### 🛠️ Tech I Work With
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)
+`Building across the stack — from mobile apps to ML pipelines`
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### a bit about me
 
-<table>
-<tr>
-<td width="50%">
+I'm a developer who likes to **build things end-to-end** — from sketching out an idea to shipping it to users. I don't limit myself to one stack or one domain. If there's a problem worth solving, I'll figure out the right tools for it.
 
-**[InvenSync](https://github.com/L3von36/InvenSync)**
-Smart inventory management for Ethiopian retailers. 10 industry templates, AI-powered forecasting, POS, barcode generation, multi-tenant SaaS.
-
-`Next.js` `TypeScript` `Prisma` `Supabase` `AI`
-
-</td>
-<td width="50%">
-
-**More coming soon...**
-Always building. Stay tuned for new open-source projects and tools.
-
-`Open Source` `SaaS` `DevTools`
-
-</td>
-</tr>
-</table>
+Right now I'm deep into **SaaS products**, **real-time systems**, and **bringing AI into practical business tools** — especially for markets in Africa that are underserved by existing software.
 
 ---
 
-### 📊 GitHub Stats
+### what I build
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| **[InvenSync](https://github.com/L3von36/InvenSync)** | Smart inventory management with AI forecasting, POS, and barcode generation for retailers | Next.js · TypeScript · Prisma · Supabase · AI |
+| **[CopyCatcher](https://github.com/L3von36/copycatcher)** | Cross-device clipboard synchronization with real-time updates | Flutter · Dart |
+| **[Clipboard Sync](https://github.com/L3von36/clipboard-sync-flutter-app)** | Full-stack clipboard sync — Flutter frontend + Django backend with WebSocket | Flutter · Django · WebSocket |
+| **[Elite Asset Manager](https://github.com/L3von36/Elite-Asset-Manager)** | Asset management platform | TypeScript |
+| **[LoyalEvent](https://github.com/L3von36/loyalevent)** | Event management and loyalty platform | Dart · Flutter |
+| **[Real-time Face Detection](https://github.com/L3von36/Real-time-Face-Detection)** | Python-based real-time face detection system | Python · OpenCV |
+| **[Event Curator](https://github.com/L3von36/Event-Curator)** | Event curation and management | TypeScript |
+| **[WatchParty](https://github.com/L3von36/watchparty-app)** | Shared watch experience app | TypeScript |
+| **[Friend Habit Tracker](https://github.com/L3von36/Friend-Habit-Tracker)** | Social habit tracking with friends | TypeScript |
+| **[ContactVault](https://github.com/L3von36/contactvault)** | Contact management system | TypeScript |
+| **[DevJobs](https://github.com/L3von36/devjobs)** | Job board for developers | Python |
+
+...and [40+ more repos](https://github.com/L3von36?tab=repositories) covering everything from Svelte apps to Jupyter notebooks.
+
+---
+
+### my toolkit
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=L3von36&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,dart,cpp,nodejs,nextjs,react,svelte,flutter,prisma,postgresql,mongodb,redis,tailwind,docker,git,vercel,linux,supabase&perline=11" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3von36&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" />
+</div>
+
+---
+
+### currently exploring
+
+- 🤖 **AI/ML integrations** — making LLMs and computer vision work for real business use cases
+- 🏗️ **System design** — scaling SaaS from prototype to production
+- 📱 **Cross-platform apps** — Flutter + native bridges
+- 🌍 **Tech for African markets** — building tools that actually fit how businesses work here
+
+---
+
+### github stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=L3von36&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3von36&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" />
 
 </div>
 
@@ -92,18 +79,8 @@ Always building. Stay tuned for new open-source projects and tools.
 
 ---
 
-### 🤝 Let's Connect
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-L3von36-181717?style=for-the-badge&logo=github)](https://github.com/L3von36)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=L3von36&color=58a6ff&style=flat-square" />
 
 </div>
